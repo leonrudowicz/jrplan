@@ -3,7 +3,9 @@ package JRPMain;
 
 public class main {
 	
-	public void Testfunktion() {
+	public void Testfunktion(int Käse) {
+		int LOL = 0;
+		Käse = LOL;
 		
 	}
 
